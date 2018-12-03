@@ -1,6 +1,8 @@
 /* C'est mon style :p */
 p{
         background-color: rgb(0, 17, 255);
+        box-shadow: 6px 6px 6px black;
+        border: black solid 3px;
 }
 h1{
         font-family: 'Courier New', Courier, monospace;
